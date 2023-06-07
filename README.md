@@ -101,23 +101,119 @@ Impresionar a potenciales clientes y empleadores, mostrando mis habilidades crea
 
 - - - - - - -
 
-## **¿Qué existe que es similar a la propuesta? - Referentes**
+## **¿Qué existe que es similar a la propuesta? - Antecedentes**
 
+### ANTECEDENTE 1: *SERAPHIM SPACE*
+
+![image](https://github.com/javimolin-uc/FINAL/assets/80367451/72ea69f3-9b26-499a-871e-cf4edc37ca0a)
 
 |¿Qué es?|Fuente|
 |:----|:----|
 |Seraphim Space es un fondo de capital de riesgo enfocado en tecnología espacial que invierte en empresas de SpaceTech, ve el espacio como una oportunidad de inversión de billones de dólares y ha identificado más de 1,500 oportunidades de inversión en SpaceTech. Además, han publicado su propio mapa del mercado del ecosistema de SpaceTech para capturar la verdadera magnitud de la innovación que está ocurriendo en el ecosistema de SpaceTech.|https://seraphim.vc|
-|**Aspectos positivos**|**Aspectos negativos**|
+
+|Aspectos positivos|Aspectos negativos|
+|:----|:----|
 |La página tiene un diseño moderno y atractivo.|La página puede tardar un poco en cargar debido a la cantidad de imágenes y contenido.|
 |Las imágenes utilizadas son de alta calidad y están relacionadas con el tema de la página.|Algunas secciones de la página pueden ser un poco largas y abrumadoras para leer.|
 |La información está organizada de manera clara y fácil de entender.|La página no tiene una opción de búsqueda para encontrar información específica.|
 |La página es fácil de navegar y encontrar la información deseada.| |
 |La página tiene un enfoque claro y específico en la inversión en tecnología espacial.| |
-| | |
-| | |
+
+## 
+
+### ANTECEDENTE 2: *SUBUNZO*
+
+![image](https://github.com/javimolin-uc/FINAL/assets/80367451/8a059842-0bdb-4fde-a16e-3608aafe4211)
+
+|¿Qué es?|Fuente|
+|:----|:----|
+|Ubunzo es un estudio de diseño digital que ofrece un amplio paquete de diseño para empresas y nuevas empresas para dar forma a su marca, capturar su mercado y dejar atrás a la competencia. El sitio web no proporciona mucha información más allá de esto, pero parece ser una empresa que se especializa en servicios de diseño digital. |https://www.ubunzo.com|
+
+|Aspectos positivos|Aspectos negativos|
+|:----|:----|
+|La página web tiene un diseño moderno y atractivo.|La página web no proporciona mucha información sobre la empresa y sus servicios.|
+|La paleta de colores utilizada es agradable y coherente.|El texto en la página principal es difícil de leer debido a la elección de fuente y tamaño.|
+|La página es fácil de navegar y encontrar la información deseada.|La página no tiene un menú de navegación fijo, lo que dificulta la navegación en dispositivos móviles.|
+|El contenido es claro y conciso.|La página no tiene un botón de llamado a la acción claro para que los visitantes se pongan en contacto con la empresa.|
+|La página web carga rápidamente.| |
+
+
+## 
+
+### ANTECEDENTE 3: *THE DROP STORE*
+
+![image](https://github.com/javimolin-uc/FINAL/assets/80367451/02e16da9-aca5-4b4d-8cfa-df6d7b63d6a3)
+
+|¿Qué es?|Fuente|
+|:----|:----|
+|Drop Store es una iniciativa del Ministerio de Relaciones Exteriores del Reino de los Países Bajos. Es un mercado distópico para un mundo en crisis del agua. |https://thedropstore.org|
+
+|Aspectos positivos|Aspectos negativos|
+|:----|:----|
+|Diseño coherente y minimalista|Demora mucho en cargar|
+|Es interactivo manteniendo la atención de quienes lo usan|Cuesta la navegación debido a la gran cantidad de animaciones.|
+|Utiliza tipografías y paleta de colores legible.|Los efectos dificultan la legibilidad debido a que retrasa el funcionamiento.|
+
+
+## 
+
+### ANTECEDENTE 4: *FOUR TYPOLOGIES*
+
+![image](https://github.com/javimolin-uc/FINAL/assets/80367451/890485a3-c56b-4623-a5e3-e54c47fcb1ee)
+
+|¿Qué es?|Fuente|
+|:----|:----|
+|El sitio web trata sobre un proyecto llamado "Four Typos Immersive Web Experience". El proyecto tiene como objetivo redefinir el espacio mediante la creación de una experiencia web inmersiva que valora el pensamiento sobre la producción. El diseñador del proyecto y desarrollador web es Qihang Fan, y el instructor del proyecto es Peter Testa. El sitio web también menciona a un instructor de desarrollo web llamado Anthony Tran. |https://qihangfan.github.io|
+
+|Aspectos positivos|Aspectos negativos|
+|:----|:----|
+|Diseño interactivo y receptivo que funciona bien en computadoras de escritorio, tabletas y dispositivos móviles.|El sitio web carece de una navegación clara, lo que dificulta que los usuarios encuentren información específica.|
+|Experiencia web inmersiva que permite a los usuarios descubrir características de diseño de forma interactiva.|El esquema de colores del sitio web es limitado y puede no ser del agrado de todos los usuarios.|
+|Diseño único y creativo que explora los campos superpuestos del diseño de la arquitectura, la práctica de los medios digitales y el diseño de la experiencia del usuario.|El contenido del sitio web es limitado, con solo unas pocas páginas y mínima información sobre el proyecto.|
+|Presentación clara y concisa de los objetivos y diseñadores del proyecto.|Es posible que el diseño del sitio web no sea accesible para usuarios con discapacidades, ya que carece de funciones como texto alternativo para imágenes y una estructura de encabezado adecuada.|
+|Uso eficaz de la tipografía y el diseño para transmitir el mensaje del proyecto.|El diseño del sitio web puede no ser adecuado para los usuarios que prefieren un diseño web más tradicional o sencillo.|
+
+
+## 
+
+### ANTECEDENTE 5: *STUDIO KANDA*
+
+![image](https://github.com/javimolin-uc/FINAL/assets/80367451/2aa3bd4f-e6f7-4212-920f-baa55dea9967)
+
+|¿Qué es?|Fuente|
+|:----|:----|
+|El sitio web es la presencia en línea de Studio Kanda, un primer estudio de diseño digital con sede en Nottingham. El sitio web ofrece información sobre los servicios del estudio, que incluyen estrategia creativa, diseño de marca e impresión, diseño digital y desarrollo web low-code. El estudio tiene como objetivo crear productos y sitios web impactantes que prioricen el disfrute de las personas. El sitio web también presenta estudios de casos del trabajo anterior del estudio. |https://www.kanda.studio|
+
+|Aspectos positivos|Aspectos negativos|
+|:----|:----|
+|El sitio web tiene un diseño limpio y moderno que es visualmente atractivo.|Es posible que el diseño del sitio web no sea accesible para usuarios con discapacidades, ya que carece de funciones como texto alternativo para imágenes y una estructura de encabezado adecuada.|
+|El esquema de colores del sitio web es coherente y está bien elegido, lo que crea una apariencia coherente.|Parte del texto es pequeño y difícil de leer.|
+|El diseño del sitio web es fácil de navegar, con encabezados y secciones claras.|El uso de animaciones y transiciones en el sitio web puede distraer o ralentizar la experiencia del usuario.|
+|El contenido del sitio web está bien organizado y es fácil de leer, con un lenguaje claro y conciso.|La página de inicio del sitio web carece de un claro llamado a la acción.|
+|El uso de imágenes y gráficos del sitio web es efectivo y mejora el diseño general.| |
 
 
 
+## 
+
+### ANTECEDENTE 6: *COASTAL CLOUDS*
+
+![image](https://github.com/javimolin-uc/FINAL/assets/80367451/750182a5-44da-48bd-ab3f-3ebe88dbb394)
+
+|¿Qué es?|Fuente|
+|:----|:----|
+|Coastal Clouds crea productos de cáñamo que incluyen gomitas y vaporizadores. Creamos un sitio de comercio electrónico WooCommerce personalizado construido con colores y animaciones inspirados en los productos que ofrecen. |https://coastalcloudshemp.com|
+
+|Aspectos positivos|Aspectos negativos|
+|:----|:----|
+|Tiene un diseño atractivo e interactivo|La cantidad de efectos genera que la navegación de esta sea más lenta.|
+|Permite una legibilidad debido a las tipografías y contrastes de colores|Algunos efectos cambian muy rápido generando dificultad para leer.|
+|Utiliza un estilo gráfico que corresponde con la identidad de la marca| |
+
+
+- - - - - - -
+
+## **¿Qué existe que puede inspirar la propuesta? - Referentes**
 
 
 
