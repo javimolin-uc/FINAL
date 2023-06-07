@@ -215,5 +215,6 @@ Impresionar a potenciales clientes y empleadores, mostrando mis habilidades crea
 
 ## **¿Qué existe que puede inspirar la propuesta? - Referentes**
 
+### MOODBOARD
 
-
+![Diseño sin título (1)](https://github.com/javimolin-uc/FINAL/assets/80367451/575237a8-85eb-4e56-b671-0113bf28cbdf)
