@@ -99,8 +99,22 @@ Impresionar a potenciales clientes y empleadores, mostrando mis habilidades crea
 - Ambiente creativo y cultural: Está interesado/a en la escena creativa y cultural de Chile y cómo puede influir en su experiencia como estudiante de diseño.
 - Perspectivas laborales: Quiere comprender las oportunidades laborales y el panorama profesional para los graduados de diseño en Chile.
 
+- - - - - - -
+
+## **¿Qué existe que es similar a la propuesta? - Referentes**
 
 
+|¿Qué es?|Fuente|
+|:----|:----|
+|Seraphim Space es un fondo de capital de riesgo enfocado en tecnología espacial que invierte en empresas de SpaceTech, ve el espacio como una oportunidad de inversión de billones de dólares y ha identificado más de 1,500 oportunidades de inversión en SpaceTech. Además, han publicado su propio mapa del mercado del ecosistema de SpaceTech para capturar la verdadera magnitud de la innovación que está ocurriendo en el ecosistema de SpaceTech.|https://seraphim.vc|
+|**Aspectos positivos**|**Aspectos negativos**|
+|La página tiene un diseño moderno y atractivo.|La página puede tardar un poco en cargar debido a la cantidad de imágenes y contenido.|
+|Las imágenes utilizadas son de alta calidad y están relacionadas con el tema de la página.|Algunas secciones de la página pueden ser un poco largas y abrumadoras para leer.|
+|La información está organizada de manera clara y fácil de entender.|La página no tiene una opción de búsqueda para encontrar información específica.|
+|La página es fácil de navegar y encontrar la información deseada.| |
+|La página tiene un enfoque claro y específico en la inversión en tecnología espacial.| |
+| | |
+| | |
 
 
 
