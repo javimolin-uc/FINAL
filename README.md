@@ -1,195 +1,750 @@
-¿Para qué es esta propuesta? ![](Aspose.Words.f4292fa9-5e9d-43f3-ab5a-d2ffd96e1563.001.jpeg)
+<a name="br1"></a> 
 
-Impresionar a potenciales clientes y empleadores, mostrando mis habilidades crea vas, aumentando así mis oportunidades laborales y colaboraciones crea vas. 
+¿Para qué es esta propuesta?
 
-¿Para quiénes es esta propuesta? SANDRA CORNEJO 
+Impresionar a potenciales clientes y empleadores, mostrando mis habilidades creaꢀvas,
 
-**Básico** 
+aumentando así mis oportunidades laborales y colaboraciones creaꢀvas.
 
-Edad: Entre 30 y 45 años. Género: Femenino. 
+¿Para quiénes es esta propuesta?
 
-Estado civil: Comprome do. Nacionalidad: Chilena. 
+SANDRA CORNEJO
 
-**Demográfico** 
+Básico
 
-Nivel educa vo: Título universitario o formación relacionada con diseño. Profesión: Gerente o director de una empresa de diseño, agencia de publicidad o departamento de diseño de una organización. 
+Edad: Entre 30 y 45 años.
 
-Experiencia laboral: Tiene una sólida trayectoria profesional y experiencia en la contratación de diseñadores. 
+Género: Femenino.
 
-Residencia: San ago. 
+Estado civil: Compromeꢀdo.
 
-**Qué siente/piensa** 
+Nacionalidad: Chilena.
 
-Necesidad de talento: Busca a un profesional talentoso y con habilidades destacadas en el diseño. 
+Demográﬁco
 
-Orientada a resultados: Está interesada en contratar a alguien que pueda ofrecer resultados tangibles y contribuir al éxito de su empresa. 
+Nivel educaꢀvo: Título universitario o formación relacionada con diseño.
 
-Importancia de la imagen de marca: Reconoce la importancia del diseño en la construcción de una imagen de marca sólida y busca a alguien capaz de transmi r los valores de la empresa a través del diseño. 
+Profesión: Gerente o director de una empresa de diseño, agencia de publicidad o
 
-Innovación y compe  vidad: Desea mantenerse al tanto de las úl mas tendencias y tecnologías en el diseño para mantener a su empresa en una posición compe  va en el mercado. 
+departamento de diseño de una organización.
 
-**Qué necesita/quiere** 
+Experiencia laboral: Tiene una sólida trayectoria profesional y experiencia en la
 
-Habilidades técnicas: Busca a alguien con habilidades sólidas en so ware de diseño, conocimiento de las mejores prác cas y experiencia en proyectos relevantes. 
+contratación de diseñadores.
 
-Capacidad de comunicación: Valora la capacidad de transmi r ideas y conceptos de diseño de manera clara y efec va. 
+Residencia: Sanꢀago.
 
-Adaptabilidad: Puede necesitar a alguien que pueda adaptarse rápidamente a los cambios y trabajar en proyectos diversos. 
+Qué siente/piensa
 
-Cumplimiento de plazos: Busca a alguien que pueda entregar proyectos de diseño en 
+Necesidad de talento: Busca a un profesional talentoso y con habilidades destacadas en el
 
-` `empo y forma. 
+diseño.
 
-VITTORIO MOLIN 
+Orientada a resultados: Está interesada en contratar a alguien que pueda ofrecer
 
-**Básico ![](Aspose.Words.f4292fa9-5e9d-43f3-ab5a-d2ffd96e1563.002.jpeg)**
+resultados tangibles y contribuir al éxito de su empresa.
 
-Edad: 56 años Género: Masculino. Estado civil: Casado. Nacionalidad: Chilena. 
+Importancia de la imagen de marca: Reconoce la importancia del diseño en la construcción
 
-**Demográfico** 
+de una imagen de marca sólida y busca a alguien capaz de transmiꢀr los valores de la
 
-Nivel educa vo: Tiene  tulo de construcción civil, pero no comprende bien el área de diseño. 
+empresa a través del diseño.
 
-Profesión: Venta de materiales de Construcción. 
+Innovación y compeꢀꢀvidad: Desea mantenerse al tanto de las úlꢀmas tendencias y
 
-Relación con el dueño del portafolio: Padre del propietario del portafolio de diseño, quien costea la carrera de la diseñadora. 
+tecnologías en el diseño para mantener a su empresa en una posición compeꢀꢀva en el
 
-Residencia: San ago. 
+mercado.
 
-**Qué siente/piensa** 
 
-Interés en la educación de su hija: Desea involucrarse y conocer el progreso y la calidad de la educación que está costeando para su hija en el campo del diseño. 
 
-Preocupación por la inversión: Quiere asegurarse de que la inversión realizada en la educación de su hija esté brindando resultados tangibles y valiosos. 
+<a name="br2"></a> 
 
-Valor de la crea vidad y el diseño: Aunque no es un experto en diseño, reconoce la importancia de la crea vidad y el diseño en el mundo empresarial y está interesado en ver el potencial de su hija en este campo. 
+Qué necesita/quiere
 
-**Qué necesita/quiere** 
+Habilidades técnicas: Busca a alguien con habilidades sólidas en soꢁware de diseño,
 
-Ver resultados tangibles: Quiere ver trabajos de diseño sólidos y profesionales que muestren la habilidad y crea vidad de su hija. 
+conocimiento de las mejores prácꢀcas y experiencia en proyectos relevantes.
 
-Perspec va de futuro: Está interesado en ver cómo los trabajos de diseño de su hija podrían tener aplicaciones prác cas en el mundo empresarial y cómo pueden beneficiar su posible carrera profesional. ![](Aspose.Words.f4292fa9-5e9d-43f3-ab5a-d2ffd96e1563.003.jpeg)
+Capacidad de comunicación: Valora la capacidad de transmiꢀr ideas y conceptos de diseño
 
-Confianza en la inversión: Quiere sen rse seguro de que la inversión en la educación de su hija ha sido valiosa y prometedora para su futuro. 
+de manera clara y efecꢀva.
 
-AMALIA MARTINEZ 
+Adaptabilidad: Puede necesitar a alguien que pueda adaptarse rápidamente a los cambios
 
-**Básico** 
+y trabajar en proyectos diversos.
 
-Edad: 17 años 
+Cumplimiento de plazos: Busca a alguien que pueda entregar proyectos de diseño en
 
-Género: Femenino. Estado civil: Soltero. Nacionalidad: Española. 
+ꢀempo y forma.
 
-**Demográfico** 
+VITTORIO MOLIN
 
-Nivel educa vo: Estudiante de nivel secundario recién graduada Intereses académicos: Interesada en seguir una carrera en diseño. Ubicación geográfica: Barcelona. 
+Básico
 
-**Qué siente/piensa** 
+Edad: 56 años
 
-Curiosidad por la carrera de diseño: Quiere explorar y comprender las oportunidades y el enfoque de la carrera de diseño en Chile. 
+Género: Masculino.
 
-Inves gación educa va: Está en la etapa de búsqueda y exploración de opciones 
+Estado civil: Casado.
 
-educa vas en diseño, y  ene interés par cular en las ins tuciones y programas de diseño en Chile. 
+Nacionalidad: Chilena.
 
-Expecta vas y aspiraciones: Tiene expecta vas sobre cómo una educación en diseño en Chile puede ayudarle a desarrollar su crea vidad y habilidades en el campo del diseño. Deseo de crecimiento personal: Quiere encontrar una carrera que le permita expresarse y desarrollarse como diseñadora. 
+Demográﬁco
 
-**Qué necesita/quiere** 
+Nivel educaꢀvo: Tiene ꢂtulo de construcción civil, pero no comprende bien el área de
 
-Experiencias de otros estudiantes: Busca opiniones y tes monios de estudiantes actuales o graduados de programas de diseño en Chile. 
+diseño.
 
-Ambiente crea vo y cultural: Está interesado/a en la escena crea va y cultural de Chile y cómo puede influir en su experiencia como estudiante de diseño. 
+Profesión: Venta de materiales de Construcción.
 
-Perspec vas laborales: Quiere comprender las oportunidades laborales y el panorama profesional para los graduados de diseño en Chile. 
+Relación con el dueño del portafolio: Padre del propietario del portafolio de diseño, quien
 
-¿Qué existe que es similar a la propuesta? ANTECEDENTE 1: SERAPHIM SPACE 
+costea la carrera de la diseñadora.
 
-|**¿Qué es?** |
-| - |
-|Seraphim Space es un fondo de capital de riesgo enfocado en tecnología espacial que invierte en empresas de SpaceTech, ve el espacio como una oportunidad de inversión de billones de dólares y ha iden ficado más de 1,500 oportunidades de inversión en SpaceTech. Además, han publicado su propio mapa del mercado del ecosistema de SpaceTech para capturar la verdadera magnitud de la innovación que está ocurriendo en el ecosistema de SpaceTech. |
-|**Fuente** |
-|<p>h ps://seraphim.vc </p><p>h ps://www.awwwards.com/sites/seraphim </p>|
-|**Aspectos posi vos** |**Aspectos nega vos** |
-|<p>- La página  ene un diseño moderno y atrac vo. </p><p>- Las imágenes u lizadas son de alta calidad y están relacionadas con el tema de la página. </p><p>- La información está organizada de manera clara y fácil de entender. </p><p>- La página es fácil de navegar y encontrar la información deseada. </p><p>- La página  ene un enfoque claro y específico en la inversión en tecnología espacial. </p>|<p>- La página puede tardar un poco en cargar debido a la can dad de imágenes y contenido. </p><p>- Algunas secciones de la página pueden ser un poco largas y abrumadoras para leer. </p><p>- La página no  ene una opción de búsqueda para encontrar información específica. </p>|
-|**Imagen** |
+Residencia: Sanꢀago.
 
-![](Aspose.Words.f4292fa9-5e9d-43f3-ab5a-d2ffd96e1563.004.jpeg)
+Qué siente/piensa
 
-ANTECEDENTE 2:  UBUNZO 
+Interés en la educación de su hija: Desea involucrarse y conocer el progreso y la calidad de
 
-|**¿Qué es?** |
-| - |
-|Ubunzo es un estudio de diseño digital que ofrece un amplio paquete de diseño para empresas y nuevas empresas para dar forma a su marca, capturar su mercado y dejar atrás a la competencia. El si o web no proporciona mucha información más allá de esto, pero parece ser una empresa que se especializa en servicios de diseño digital.  |
-|**Fuente** |
-|<p>h ps://www.ubunzo.com </p><p>h ps://www.awwwards.com/sites/ubunzo-studio </p>|
-|**Aspectos posi vos** |**Aspectos nega vos** |
-|<p>- La página web  ene un diseño moderno y atrac vo. </p><p>- La paleta de colores u lizada es agradable y coherente. </p><p>- La página es fácil de navegar y encontrar la información deseada. </p><p>- El contenido es claro y conciso. </p><p>- La página web carga rápidamente. </p>|<p>- La página web no proporciona mucha información sobre la empresa y sus servicios. </p><p>- El texto en la página principal es di cil de leer debido a la elección de fuente y tamaño. </p><p>- La página no  ene un menú de navegación fijo, lo que dificulta la navegación en disposi vos móviles. </p><p>- La página no  ene un botón de llamado a la acción claro para que los visitantes se pongan en contacto con la empresa. </p>|
-|**Imagen** |
+la educación que está costeando para su hija en el campo del diseño.
 
-![](Aspose.Words.f4292fa9-5e9d-43f3-ab5a-d2ffd96e1563.005.jpeg)
+Preocupación por la inversión: Quiere asegurarse de que la inversión realizada en la
 
-ANTECEDENTE 3: THE DROP STORE 
+educación de su hija esté brindando resultados tangibles y valiosos.
 
-|**¿Qué es?** |
-| - |
-|Drop Store es una inicia va del Ministerio de Relaciones Exteriores del Reino de los Países Bajos. Es un mercado distópico para un mundo en crisis del agua. |
-|**Fuente** |
-|<p>h ps://thedropstore.org </p><p>h ps://www.awwwards.com/sites/the-drop-store-for-the-un </p>|
-|**Aspectos posi vos** |**Aspectos nega vos** |
-|<p>- Diseño coherente y minimalista </p><p>- Es interac vo manteniendo la atención de quienes lo usan </p><p>- U liza  pogra as y paleta de colores legible. </p>|<p>- Demora mucho en cargar </p><p>- Cuesta la navegación debido a la gran can dad de animaciones. </p><p>- Los efectos dificultan la legibilidad debido a que retrasa el funcionamiento. </p>|
-|**Imagen** |
 
-![](Aspose.Words.f4292fa9-5e9d-43f3-ab5a-d2ffd96e1563.006.jpeg)
 
-ANTECEDENTE 4: FOUR TYPOLOGIES 
+<a name="br3"></a> 
 
-|**¿Qué es?** |
-| - |
-|El si o web trata sobre un proyecto llamado "Four Typos Immersive Web Experience". El proyecto  ene como obje vo redefinir el espacio mediante la creación de una experiencia web inmersiva que valora el pensamiento sobre la producción. El diseñador del proyecto y desarrollador web es Qihang Fan, y el instructor del proyecto es Peter Testa. El si o web también menciona a un instructor de desarrollo web llamado Anthony Tran. |
-|**Fuente** |
-|h ps://www.awwwards.com/sites/four-typologies |
-|h ps://qihangfan.github.io |
-|**Aspectos posi vos** |**Aspectos nega vos** |
-|<p>- Diseño interac vo y recep vo que funciona bien en computadoras de escritorio, tabletas y disposi vos móviles. </p><p>- Experiencia web inmersiva que permite a los usuarios descubrir caracterís cas de diseño de forma interac va. </p><p>- Diseño único y crea vo que explora los campos superpuestos del diseño de la arquitectura, la prác ca de los medios digitales y el </p>|<p>- El si o web carece de una navegación clara, lo que dificulta que los usuarios encuentren información específica. </p><p>- El esquema de colores del si o web es limitado y puede no ser del agrado de todos los usuarios. </p><p>- El contenido del si o web es limitado, con solo unas pocas páginas y mínima información sobre el proyecto. </p>|
+Valor de la creaꢀvidad y el diseño: Aunque no es un experto en diseño, reconoce la
 
+importancia de la creaꢀvidad y el diseño en el mundo empresarial y está interesado en ver
 
+el potencial de su hija en este campo.
 
-|<p>diseño de la experiencia del usuario. </p><p>- Presentación clara y concisa de los obje vos y diseñadores del proyecto. </p><p>- Uso eficaz de la  pogra a y el diseño para transmi r el mensaje del proyecto. </p>|<p>- Es posible que el diseño del si o web no sea accesible para usuarios con discapacidades, ya que carece de funciones como texto alterna vo para imágenes y una estructura de encabezado adecuada. </p><p>- El diseño del si o web puede no ser adecuado para los usuarios que prefieren un diseño web más tradicional o sencillo. </p>|
-| :- | :- |
-|**Imagen** |
-|![](Aspose.Words.f4292fa9-5e9d-43f3-ab5a-d2ffd96e1563.007.jpeg)|
+Qué necesita/quiere
 
-ANTECEDENTE 5: STUDIO KANDA 
+Ver resultados tangibles: Quiere ver trabajos de diseño sólidos y profesionales que
 
-|**¿Qué es?** |
-| - |
-|El si o web es la presencia en línea de Studio Kanda, un primer estudio de diseño digital con sede en No ngham. El si o web ofrece información sobre los servicios del estudio, que incluyen estrategia crea va, diseño de marca e impresión, diseño digital y desarrollo web low-code. El estudio  ene como obje vo crear productos y si os web impactantes que prioricen el disfrute de las personas. El si o web también presenta estudios de casos del trabajo anterior del estudio. |
-|**Fuente** |
-|<p>h ps://www.kanda.studio </p><p>h ps://www.awwwards.com/sites/studio-kanda </p>|
-|**Aspectos posi vos** |**Aspectos nega vos** |
+muestren la habilidad y creaꢀvidad de su hija.
 
+Perspecꢀva de futuro: Está interesado en ver cómo los trabajos de diseño de su hija
 
+podrían tener aplicaciones prácꢀcas en el mundo empresarial y cómo pueden beneﬁciar
 
-|<p>- El si o web  ene un diseño limpio y moderno que es visualmente atrac vo. </p><p>- El esquema de colores del si o web es coherente y está bien elegido, lo que crea una apariencia coherente. </p><p>- El diseño del si o web es fácil de navegar, con encabezados y secciones claras. </p><p>- El contenido del si o web está bien organizado y es fácil de leer, con un lenguaje claro y conciso. </p><p>- El uso de imágenes y gráficos del si o web es efec vo y mejora el diseño general. </p>|<p>- Es posible que el diseño del si o web no sea accesible para usuarios con discapacidades, ya que carece de funciones como texto alterna vo para imágenes y una estructura de encabezado adecuada. </p><p>- Parte del texto es pequeño y di cil de leer. </p><p>- El uso de animaciones y transiciones en el si o web puede distraer o ralen zar la experiencia del usuario. </p><p>- La página de inicio del si o web carece de un claro llamado a la acción. </p><p> </p>|
-| :- | :- |
-|**Imagen** |
-|![](Aspose.Words.f4292fa9-5e9d-43f3-ab5a-d2ffd96e1563.008.jpeg)|
+su posible carrera profesional.
 
-ANTECEDENTE 6:  
+Conﬁanza en la inversión: Quiere senꢀrse seguro de que la inversión en la educación de su
 
-|**¿Qué es?** |
-| - |
-|Coastal Clouds crea productos de cáñamo que incluyen gomitas y vaporizadores. Creamos un si o de comercio electrónico WooCommerce personalizado construido con colores y animaciones inspirados en los productos que ofrecen. |
-|**Fuente** |
+hija ha sido valiosa y prometedora para su futuro.
 
+AMALIA MARTINEZ
 
+Básico
 
-|h ps://www.awwwards.com/sites/coastal-clouds-hemp |
-| - |
-|h ps://coastalcloudshemp.com |
-|**Aspectos posi vos** |**Aspectos nega vos** |
-|<p>- Tiene un diseño atrac vo e </p><p>interac vo </p><p>- Permite una legibilidad debido a las  pogra as y contrastes de colores </p><p>- U liza un es lo gráfico que corresponde con la iden dad de la marca </p>|<p>- La can dad de efectos genera que la navegación de esta sea más lenta. </p><p>- Algunos efectos cambian muy rápido generando dificultad para leer. </p>|
-|**Imagen** |
-|![](Aspose.Words.f4292fa9-5e9d-43f3-ab5a-d2ffd96e1563.009.jpeg)|
+Edad: 17 años
 
-¿Qué existe que puede inspirar la propuesta? 
+Género: Femenino.
+
+Estado civil: Soltero.
+
+Nacionalidad: Española.
+
+Demográﬁco
+
+Nivel educaꢀvo: Estudiante de nivel secundario recién graduada
+
+Intereses académicos: Interesada en seguir una carrera en diseño.
+
+Ubicación geográﬁca: Barcelona.
+
+Qué siente/piensa
+
+Curiosidad por la carrera de diseño: Quiere explorar y comprender las oportunidades y el
+
+enfoque de la carrera de diseño en Chile.
+
+Invesꢀgación educaꢀva: Está en la etapa de búsqueda y exploración de opciones
+
+educaꢀvas en diseño, y ꢀene interés parꢀcular en las insꢀtuciones y programas de diseño
+
+en Chile.
+
+
+
+<a name="br4"></a> 
+
+Expectaꢀvas y aspiraciones: Tiene expectaꢀvas sobre cómo una educación en diseño en
+
+Chile puede ayudarle a desarrollar su creaꢀvidad y habilidades en el campo del diseño.
+
+Deseo de crecimiento personal: Quiere encontrar una carrera que le permita expresarse y
+
+desarrollarse como diseñadora.
+
+Qué necesita/quiere
+
+Experiencias de otros estudiantes: Busca opiniones y tesꢀmonios de estudiantes actuales o
+
+graduados de programas de diseño en Chile.
+
+Ambiente creaꢀvo y cultural: Está interesado/a en la escena creaꢀva y cultural de Chile y
+
+cómo puede inﬂuir en su experiencia como estudiante de diseño.
+
+Perspecꢀvas laborales: Quiere comprender las oportunidades laborales y el panorama
+
+profesional para los graduados de diseño en Chile.
+
+¿Qué existe que es similar a la propuesta?
+
+ANTECEDENTE 1: SERAPHIM SPACE
+
+¿Qué es?
+
+Seraphim Space es un fondo de capital de riesgo enfocado en tecnología espacial que
+
+invierte en empresas de SpaceTech, ve el espacio como una oportunidad de inversión de
+
+billones de dólares y ha idenꢀﬁcado más de 1,500 oportunidades de inversión en
+
+SpaceTech. Además, han publicado su propio mapa del mercado del ecosistema de
+
+SpaceTech para capturar la verdadera magnitud de la innovación que está ocurriendo en
+
+el ecosistema de SpaceTech.
+
+Fuente
+
+hꢃps://seraphim.vc
+
+hꢃps://www.awwwards.com/sites/seraphim
+
+Aspectos posiꢀvos
+
+Aspectos negaꢀvos
+
+•
+
+La página ꢀene un diseño moderno
+
+y atracꢀvo.
+
+•
+
+•
+
+•
+
+La página puede tardar un poco en
+
+cargar debido a la canꢀdad de
+
+imágenes y contenido.
+
+Algunas secciones de la página
+
+pueden ser un poco largas y
+
+abrumadoras para leer.
+
+La página no ꢀene una opción de
+
+búsqueda para encontrar
+
+información especíﬁca.
+
+•
+
+Las imágenes uꢀlizadas son de alta
+
+calidad y están relacionadas con el
+
+tema de la página.
+
+La información está organizada de
+
+manera clara y fácil de entender.
+
+La página es fácil de navegar y
+
+encontrar la información deseada.
+
+La página ꢀene un enfoque claro y
+
+especíﬁco en la inversión en
+
+tecnología espacial.
+
+•
+
+•
+
+•
+
+Imagen
+
+
+
+<a name="br5"></a> 
+
+ANTECEDENTE 2: UBUNZO
+
+¿Qué es?
+
+Ubunzo es un estudio de diseño digital que ofrece un amplio paquete de diseño para
+
+empresas y nuevas empresas para dar forma a su marca, capturar su mercado y dejar
+
+atrás a la competencia. El siꢀo web no proporciona mucha información más allá de esto,
+
+pero parece ser una empresa que se especializa en servicios de diseño digital.
+
+Fuente
+
+hꢃps://www.ubunzo.com
+
+hꢃps://www.awwwards.com/sites/ubunzo-studio
+
+Aspectos posiꢀvos
+
+Aspectos negaꢀvos
+
+•
+
+•
+
+•
+
+La página web ꢀene un diseño
+
+moderno y atracꢀvo.
+
+•
+
+•
+
+•
+
+La página web no proporciona
+
+mucha información sobre la
+
+empresa y sus servicios.
+
+El texto en la página principal es
+
+diꢄcil de leer debido a la elección
+
+de fuente y tamaño.
+
+La página no ꢀene un menú de
+
+navegación ﬁjo, lo que diﬁculta la
+
+navegación en disposiꢀvos
+
+móviles.
+
+La paleta de colores uꢀlizada es
+
+agradable y coherente.
+
+La página es fácil de navegar y
+
+encontrar la información deseada.
+
+El contenido es claro y conciso.
+
+La página web carga rápidamente.
+
+•
+
+•
+
+•
+
+La página no ꢀene un botón de
+
+llamado a la acción claro para que
+
+los visitantes se pongan en
+
+contacto con la empresa.
+
+Imagen
+
+
+
+<a name="br6"></a> 
+
+ANTECEDENTE 3: THE DROP STORE
+
+¿Qué es?
+
+Drop Store es una iniciaꢀva del Ministerio de Relaciones Exteriores del Reino de los
+
+Países Bajos. Es un mercado distópico para un mundo en crisis del agua.
+
+Fuente
+
+hꢃps://thedropstore.org
+
+hꢃps://www.awwwards.com/sites/the-drop-store-for-the-un
+
+Aspectos posiꢀvos
+
+Aspectos negaꢀvos
+
+•
+
+•
+
+Diseño coherente y minimalista
+
+•
+
+•
+
+Demora mucho en cargar
+
+Es interacꢀvo manteniendo la
+
+atención de quienes lo usan
+
+Uꢀliza ꢀpograꢄas y paleta de
+
+colores legible.
+
+Cuesta la navegación debido a la
+
+gran canꢀdad de animaciones.
+
+Los efectos diﬁcultan la legibilidad
+
+debido a que retrasa el
+
+•
+
+•
+
+funcionamiento.
+
+Imagen
+
+
+
+<a name="br7"></a> 
+
+ANTECEDENTE 4: FOUR TYPOLOGIES
+
+¿Qué es?
+
+El siꢀo web trata sobre un proyecto llamado "Four Typos Immersive Web Experience". El
+
+proyecto ꢀene como objeꢀvo redeﬁnir el espacio mediante la creación de una
+
+experiencia web inmersiva que valora el pensamiento sobre la producción. El diseñador
+
+del proyecto y desarrollador web es Qihang Fan, y el instructor del proyecto es Peter
+
+Testa. El siꢀo web también menciona a un instructor de desarrollo web llamado Anthony
+
+Tran.
+
+Fuente
+
+hꢃps://www.awwwards.com/sites/four-typologies
+
+hꢃps://qihangfan.github.io
+
+Aspectos posiꢀvos
+
+Aspectos negaꢀvos
+
+•
+
+•
+
+•
+
+Diseño interacꢀvo y recepꢀvo que
+
+•
+
+El siꢀo web carece de una
+
+funciona bien en computadoras de
+
+escritorio, tabletas y disposiꢀvos
+
+móviles.
+
+Experiencia web inmersiva que
+
+permite a los usuarios descubrir
+
+caracterísꢀcas de diseño de forma
+
+interacꢀva.
+
+Diseño único y creaꢀvo que
+
+explora los campos superpuestos
+
+del diseño de la arquitectura, la
+
+prácꢀca de los medios digitales y el
+
+navegación clara, lo que diﬁculta
+
+que los usuarios encuentren
+
+información especíﬁca.
+
+El esquema de colores del siꢀo web
+
+es limitado y puede no ser del
+
+agrado de todos los usuarios.
+
+El contenido del siꢀo web es
+
+limitado, con solo unas pocas
+
+páginas y mínima información
+
+sobre el proyecto.
+
+•
+
+•
+
+
+
+<a name="br8"></a> 
+
+diseño de la experiencia del
+
+usuario.
+
+Presentación clara y concisa de los
+
+objeꢀvos y diseñadores del
+
+proyecto.
+
+Uso eﬁcaz de la ꢀpograꢄa y el
+
+diseño para transmiꢀr el mensaje
+
+del proyecto.
+
+•
+
+•
+
+Es posible que el diseño del siꢀo
+
+web no sea accesible para usuarios
+
+con discapacidades, ya que carece
+
+de funciones como texto alternaꢀvo
+
+para imágenes y una estructura de
+
+encabezado adecuada.
+
+El diseño del siꢀo web puede no ser
+
+adecuado para los usuarios que
+
+preﬁeren un diseño web más
+
+tradicional o sencillo.
+
+•
+
+•
+
+Imagen
+
+ANTECEDENTE 5: STUDIO KANDA
+
+¿Qué es?
+
+El siꢀo web es la presencia en línea de Studio Kanda, un primer estudio de diseño digital
+
+con sede en Noꢅngham. El siꢀo web ofrece información sobre los servicios del estudio,
+
+que incluyen estrategia creaꢀva, diseño de marca e impresión, diseño digital y desarrollo
+
+web low-code. El estudio ꢀene como objeꢀvo crear productos y siꢀos web impactantes
+
+que prioricen el disfrute de las personas. El siꢀo web también presenta estudios de
+
+casos del trabajo anterior del estudio.
+
+Fuente
+
+hꢃps://www.kanda.studio
+
+hꢃps://www.awwwards.com/sites/studio-kanda
+
+Aspectos posiꢀvos
+
+Aspectos negaꢀvos
+
+
+
+<a name="br9"></a> 
+
+•
+
+•
+
+El siꢀo web ꢀene un diseño limpio
+
+y moderno que es visualmente
+
+atracꢀvo.
+
+El esquema de colores del siꢀo
+
+web es coherente y está bien
+
+elegido, lo que crea una
+
+•
+
+Es posible que el diseño del siꢀo
+
+web no sea accesible para usuarios
+
+con discapacidades, ya que carece
+
+de funciones como texto alternaꢀvo
+
+para imágenes y una estructura de
+
+encabezado adecuada.
+
+apariencia coherente.
+
+•
+
+•
+
+Parte del texto es pequeño y diꢄcil
+
+de leer.
+
+•
+
+El diseño del siꢀo web es fácil de
+
+navegar, con encabezados y
+
+secciones claras.
+
+El contenido del siꢀo web está
+
+bien organizado y es fácil de leer,
+
+con un lenguaje claro y conciso.
+
+El uso de imágenes y gráﬁcos del
+
+siꢀo web es efecꢀvo y mejora el
+
+diseño general.
+
+El uso de animaciones y transiciones
+
+en el siꢀo web puede distraer o
+
+ralenꢀzar la experiencia del usuario.
+
+La página de inicio del siꢀo web
+
+carece de un claro llamado a la
+
+acción.
+
+•
+
+•
+
+•
+
+•
+
+Imagen
+
+ANTECEDENTE 6:
+
+¿Qué es?
+
+Coastal Clouds crea productos de cáñamo que incluyen gomitas y vaporizadores.
+
+Creamos un siꢀo de comercio electrónico WooCommerce personalizado construido con
+
+colores y animaciones inspirados en los productos que ofrecen.
+
+Fuente
+
+
+
+<a name="br10"></a> 
+
+hꢃps://www.awwwards.com/sites/coastal-clouds-hemp
+
+hꢃps://coastalcloudshemp.com
+
+Aspectos posiꢀvos
+
+Aspectos negaꢀvos
+
+•
+
+•
+
+•
+
+Tiene un diseño atracꢀvo e
+
+interacꢀvo
+
+•
+
+La canꢀdad de efectos genera que
+
+la navegación de esta sea más
+
+lenta.
+
+Algunos efectos cambian muy
+
+rápido generando diﬁcultad para
+
+leer.
+
+Permite una legibilidad debido a las
+
+ꢀpograꢄas y contrastes de colores
+
+Uꢀliza un esꢀlo gráﬁco que
+
+corresponde con la idenꢀdad de la
+
+marca
+
+•
+
+Imagen
+
+¿Qué existe que puede inspirar la propuesta?
+
