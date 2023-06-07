@@ -1,8 +1,10 @@
-    ¿Para qué es esta propuesta? 
+   ¿Para qué es esta propuesta? 
 
 Impresionar a potenciales clientes y empleadores, mostrando mis habilidades crea vas, aumentando así mis oportunidades laborales y colaboraciones crea vas. 
 
-    ¿Para quiénes es esta propuesta? SANDRA CORNEJO 
+   ¿Para quiénes es esta propuesta? 
+ 
+ SANDRA CORNEJO 
 
 **Básico** 
 
