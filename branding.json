@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Automarca",
+        "year": "2021",
+        "director": "MAJA",
+        "pic_sm": "maja1.png",
+        "pic_lg": "construction.png",
+        "description": "Página en constrcción, lamento el inconveniente."
+    },
+    {
+        "name": "Identidad de Marca",
+        "year": 2023,
+        "director": "MUSEO NUMISMÁTICO",
+        "pic_sm": "numi1.png",
+        "pic_lg": "construction.png",
+        "description": "Página en constrcción, lamento el inconveniente."
+    },
+        {
+        "name": "Antiresaca",
+        "year": 2022,
+        "director": "SUP",
+        "pic_sm": "sup1.png",
+        "pic_lg": "construction.png",
+        "description": "Página en constrcción, lamento el inconveniente."
+    }
+   
+]
