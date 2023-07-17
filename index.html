@@ -470,13 +470,13 @@ https://templatemo.com/tm-573-eduwell
           <div class="owl-testimonials owl-carousel" style="position: relative; z-index: 5;">
             <div class="item">
               <p>“Tu diseño web demuestra un dominio sólido de los principios de diseño y una habilidad notable para implementarlos de manera efectiva, lo cual indica tu capacidad para crear una experiencia visualmente atractiva y funcional en línea.”</p>
-                <h4>FACO</h4>
+                <h4>FACOㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</h4>
                 <span>Diseño de Interacción y Physical Computing</span>
                 <img src="assets/images/quote.png" alt="">
             </div>
             <div class="item">
               <p>“Javiera, destacada estudiante de Diseño UC, es exigente al mismo tiempo que perseverante y responsable. Siempre busca darle sentido a los proyectos que realiza.”</p>
-                <h4>Ximena Ulibarri</h4>
+                <h4>Ximena Ulibarri ㅤㅤㅤㅤ</h4>
                 <span>	Diseñadora, editora y catedrática</span>
                 <img src="assets/images/quote.png" alt="">
             </div>
@@ -488,7 +488,7 @@ https://templatemo.com/tm-573-eduwell
             </div>
             <div class="item">
               <p>“Como diseñadora, Javiera es capaz de investigar, absorber y comprender con una mirada flexible e interdisciplinaria el contexto más amplio que motiva su desafío de diseño. Trabajar con ella es una experiencia de fluidez, colaboración y eficacia.”</p>
-                <h4>Juan Francisco Robles</h4>
+                <h4>Juan Francisco Roblesㅤㅤㅤㅤㅤㅤㅤㅤ</h4>
                 <span>Psicólogo, Magíster en Diseño Avanzado</span>
                 <img src="assets/images/quote.png" alt="">
             </div>
@@ -773,6 +773,26 @@ $(document).ready(function() {
 
 // Llama a la función cuando se desplaza la página
 window.addEventListener("scroll", setActiveMenuItem);
+
+        
+        
+        
+        // Obtener todos los elementos del carrusel
+const items = document.querySelectorAll('.owl-testimonials .item');
+
+// Encontrar la altura máxima
+let maxHeight = 0;
+items.forEach(item => {
+  const itemHeight = item.offsetHeight;
+  if (itemHeight > maxHeight) {
+    maxHeight = itemHeight;
+  }
+});
+
+// Aplicar la altura máxima a todos los elementos
+items.forEach(item => {
+  item.style.height = `${maxHeight}px`;
+});
 
     
     </script>
