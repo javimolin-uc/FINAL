@@ -2808,4 +2808,10 @@ main article div h2{
           }
         }
 
+/* Loader en versión celular */
+@media (max-width: 767px) {
+  .loader-overlay {
+    filter: blur(10px);
+  }
+}
  
