@@ -839,6 +839,15 @@ section.main-banner {
 }
 
 
+/* Banner en versión celular */
+@media (max-width: 767px) {
+  .main-banner .header-text h2 {
+    font-size: 51.2px; /* Reduce el tamaño en un 20% (64px * 0.8) */
+    line-height: 59.2px; /* Ajusta la altura de línea según el nuevo tamaño */
+  }
+}
+
+
 /*
 ---------------------------------------------
 services
@@ -1306,7 +1315,7 @@ section.testimonials:after {
     max-width: 44px;
     z-index: 2;
     position: absolute;
-    right: 15px;
+    right: 22px;
     bottom: 70px;
   }
   
@@ -1394,7 +1403,7 @@ section.contact-us .contact-info h4 {
 
 section.contact-us .contact-info span {
   font-size: 15px;
-  color: #f76d00;
+  color: #f76d00; !important;
   font-weight: 700;
 }
 
@@ -2051,7 +2060,10 @@ body {
   .main-banner .header-text {
     text-align: center;
     margin-bottom: 60px;
+      
   }
+
+    
   .main-banner .right-image {
     margin-left: 0px;
   }
@@ -2152,8 +2164,11 @@ body {
     font-size: 22px;
   }
 }
-
-
+@media (max-width: 767px) {
+      .main-banner .header-text h2 {
+    font-size: 51px;
+  }
+}
 /*
     
 TemplateMo 556 Catalog-Z
@@ -2751,7 +2766,7 @@ main article div h2{
   width: 100%;
   height: 100%;
   z-index: 1001;
-  backdrop-filter: blur(10px); /* Agrega el efecto de blur al fondo */
+  background-color: rgba(255, 255, 255, 0.7); /* Cambia el color de fondo con transparencia */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -2788,30 +2803,23 @@ main article div h2{
 }
 
 @keyframes loading-bounce {
-          0% { transform: scale(1, 0.7)}
-          40% { transform: scale(0.8, 1.2)}
-          60% { transform: scale(1, 1)}
-          100% { bottom: 140px }
-        }
-        @keyframes loading-step {
-          0% {
-            box-shadow: 0 10px 0 rgba(0,0,0,0),
-                        0 10px 0 #BD2965,
-                      -35px 50px 0 #f76d00,
-                      -70px 90px 0 #BD2965;
-          }
-          100% {
-            box-shadow: 0 10px 0 #BD2965,
-                      -35px 50px 0 #f76d00,
-                      -70px 90px 0 #BD2965,
-                      -70px 90px 0 rgba(0,0,0,0);
-          }
-        }
+  0% { transform: scale(1, 0.7)}
+  40% { transform: scale(0.8, 1.2)}
+  60% { transform: scale(1, 1)}
+  100% { bottom: 140px }
+}
 
-/* Loader en versión celular */
-@media (max-width: 767px) {
-  .loader-overlay {
-    filter: blur(10px);
+@keyframes loading-step {
+  0% {
+    box-shadow: 0 10px 0 rgba(0,0,0,0),
+                0 10px 0 #BD2965,
+              -35px 50px 0 #f76d00,
+              -70px 90px 0 #BD2965;
+  }
+  100% {
+    box-shadow: 0 10px 0 #BD2965,
+              -35px 50px 0 #f76d00,
+              -70px 90px 0 #BD2965,
+              -70px 90px 0 rgba(0,0,0,0);
   }
 }
- 
