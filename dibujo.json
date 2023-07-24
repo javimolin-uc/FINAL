@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Ilustración",
+        "year": 2023,
+        "director": "Autoretrato",
+        "pic_sm": "notfound.png",
+        "pic_lg": "construction.png",
+        "description": "Página en constrcción, lamento el inconveniente."
+    },
+    {
+        "name": "Dibujo a mano",
+        "year": 2019,
+        "director": "Frutas y sus cortes",
+        "pic_sm": "notfound.png",
+        "pic_lg": "construction.png",
+        "description": "Página en constrcción, lamento el inconveniente."
+    }
+   
+]
