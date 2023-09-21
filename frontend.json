@@ -1,0 +1,46 @@
+[
+    {
+        "name": "2023",
+        "year": 2023,
+        "director": "PRIMER PORTAFOLIO",
+        "pic_sm": "prime.jpg",
+        "pic_lg": "primer.jpg",
+    "descripcion": "Para este proyecto, se pidió generar las bases de un portafolio, en donde se pudiesen ver las distintas áreas de dominio, algunos trabajos con sus respectivas páginas y comentarios.",
+ "description": "En la creación de este proyecto, la funcionalidad fue lo primordial, dejando de lado un poco el contenido como tal, apoyándose de texto falso que ayude a visualizar. A través de la utilización del código, se permite generar una plantilla predeterminada para cada una de las especificaciones de cada trabajo, generando así una página funcional y de carga rápida, permitiendo agregar o editar el contenido de manera accesible para proyectos futuros.",
+    "videos": [
+
+      {
+        "title": "Página",
+        "url": "https://javimolin-uc.github.io/CLASE-11/"
+      }
+    ],
+    "contenido_extra": [
+      {
+        "title": "Otro contenido extra",
+        "url": "./imagenes/imagen1.jpg"
+      }
+    ]
+  },
+        {
+        "name": "2023",
+        "year": 2023,
+        "director": "PÁGINA DEL CLIMA",
+        "pic_sm": "wea.jpg",
+        "pic_lg": "weather.jpg",
+    "descripcion": "Con este proyecto, se exigió lograr sincronizar la temperatura de 3 lugares distintos en tiempo real, este siendo adaptado según la hora en la que se ingresa a la página.",
+ "description": "En este caso, se trabajó como ligar la temperatura a una coordenada particular de Italia, generando que estos datos adapten las imágenes representadas en la página y el texto descrito. Además, se exploran distintos elementos de animación para generar un atractivo mayor en los elementos visuales.",
+    "videos": [
+
+      {
+        "title": "Página",
+        "url": "https://javimolin-uc.github.io/CLASE-05/"
+      }
+    ],
+    "contenido_extra": [
+      {
+        "title": "Otro contenido extra",
+        "url": "./imagenes/imagen1.jpg"
+      }
+    ]
+  }
+]

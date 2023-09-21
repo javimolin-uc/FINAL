@@ -1,0 +1,25 @@
+[
+  {
+    "name": "2023",
+    "year": 2023,
+    "director": "BUDOWA",
+    "pic_sm": "budo.jpg",
+    "pic_lg": "budowa.jpg",
+    "descripcion": "¿Sabías qué el sector de la construcción es un gran generador de residuos, de hecho, es responsable del 30 al 40% de la generación total de residuos de los países industrializados? Hay un exceso de materiales sobrantes y residuales debido a la poca inversión en herramientas que generen eficiencias de recursos, no hay capacitaciones y no se le da la importancia suficiente a este proceso. Además, del mal cálculo de la cantidad de materiales necesarios para una construcción en etapas, todo esto afectando a múltiples actores.",
+ "description": "Este proyecto se centra en una empresa con una página web y una aplicación móvil como principales plataformas de operación. La aplicación es el servicio principal de la empresa y se encarga de recolectar materiales residuales/sobrantes de construcciones. Estos materiales son luego organizados y empaquetados para su venta en menores cantidades o para su reciclaje. La empresa también se dedica a reducir los residuos desde el diseño de las obras mediante cálculos e instructivos para aprovechar al máximo los recursos.",
+    "videos": [
+
+
+      {
+        "title": "Prototipo de interfaz",
+        "url": "https://protipado.invisionapp.com/console/share/ETA6FH93QJW/985499427?qr=1"
+      }
+    ],
+    "contenido_extra": [
+      {
+        "title": "Otro contenido extra",
+        "url": "./imagenes/imagen1.jpg"
+      }
+    ]
+  }
+]

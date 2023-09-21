@@ -1,0 +1,77 @@
+[
+      {
+    "name": "2023",
+    "year": "2023",
+    "director": "MUSEO NUMISMÁTICO",
+    "pic_sm": "numis.jpg",
+    "pic_lg": "museo.jpg",
+    "descripcion": "A partir de asignación de una institución cultural de carácter público, cada estudiante deberá desarrollar una propuesta de marca que involucre: rediseño de su logotipo, definición de un nuevo lenguaje visual, y campaña de difusión de marca.",
+ "description": "La misión de esta propuesta es salvaguardar, exhibir y estudiar la vasta colección numismática de Chile, promoviendo la investigación, la educación y la divulgación del conocimiento relacionado con las monedas y billetes. Asimismo, se busca fomentar el interés público en la numismática, brindando experiencias enriquecedoras a los visitantes a través de exhibiciones innovadoras, programas educativos y actividades interactivas. Se quiere preservar y difundir el patrimonio numismático para fortalecer el sentido de identidad nacional y contribuir al desarrollo cultural y social de la comunidad.",
+    "videos": [
+      {
+        "title": "Manual de Marca",
+        "url": "assets/pdf/manual.pdf"
+      },
+              {
+        "title": "Contenido Audiovisual RRSS",
+        "url": "assets/videos/numi.mp4"
+      }
+    ],
+    "contenido_extra": [
+      {
+        "title": "Otro contenido extra22",
+        "url": "./imagenes/imagen1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "2023",
+    "year": "2023",
+    "director": "DELICARE",
+    "pic_sm": "logodeli.jpg",
+    "pic_lg": "delicare.jpg",
+    "descripcion": "Para un proyecto, se pidió realizar una lámina digital en la que mediante imágenes de materiales, objetos, colores, texturas, tipografías y palabras recreen el ambiente o atmósfera cromática que describa el término o concepto, que debe aparecer escrito en algún lugar de la lámina. Se debía aplicar el panel conceptual y su carta a un producto, espacio o servicio que sea acorde.",
+ "description": "En este caso, se utilizó el concepto “delicado” del cual nace el nombre “DeliCare”. Se realiza un serum para el cuidado de pieles delicadas, ya que estas representan la fragilidad, pero elegancia del concepto entregado. A través de la tipografía y paleta de colores se busca reflejar el concepto de manera instintiva.",
+    "videos": [
+      {
+        "title": "Moodboard",
+        "url": "assets/pdf/delicare.pdf"
+      }
+    ],
+    "contenido_extra": [
+      {
+        "title": "Otro contenido extra1",
+        "url": "./imagenes/imagen1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "2021",
+    "year": "2021",
+    "director": "MAJA",
+    "pic_sm": "maja.jpg",
+    "pic_lg": "majag.jpg",
+    "descripcion": "Para este proyecto, se le pidió al curso generar una auto-marca, en donde lo colores, fuentes, composición y aplicaciones representen la personalidad del diseñador. ",
+ "description": "El nombre “MAJA” nace en base a las primeras silabas de mi nombre “María Javiera”, término que en España significa “Que gusta por su simpatía, belleza o gracia.” La forma circular representa la continuidad y evolución constante, mientras que el contraste entre el blanco y el negro simboliza autenticidad y profesionalismo. La disposición en forma de cruz añade un toque simbólico, reflejando la interrelación de los elementos clave en la marca MAJA. Con este logo, MAJA se posiciona como una marca memorable y sofisticada, reflejando mi compromiso como diseñadora con la excelencia y la cohesión visual.",
+    "videos": [
+      {
+        "title": "Video de creación de logo3",
+        "url": "./videos/video_creacion_logo.mp4"
+      },
+      {
+        "title": "Manual de marca3",
+        "url": "./videos/manual_marca.pdf"
+      },
+      {
+        "title": "Otro video3",
+        "url": "./videos/otro_video.mp4"
+      }
+    ],
+    "contenido_extra": [
+      {
+        "title": "Otro contenido extra3",
+        "url": "./imagenes/imagen1.jpg"
+      }
+    ]
+  }
+]

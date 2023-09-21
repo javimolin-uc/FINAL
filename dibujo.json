@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Ilustración",
+        "year": 2023,
+        "director": "Autoretrato",
+        "pic_sm": "notfound.png",
+        "pic_lg": "construction.png",
+    "descripcion": " lala A partir de asignación de una institución cultural de carácter público, cada estudiante deberá desarrollar una propuesta de marca que involucre: rediseño de su logotipo, definición de un nuevo lenguaje visual, y campaña de difusión de marca.",
+ "description": "A partir de asignación de una institución cultural de carácter público, cada estudiante deberá desarrollar una propuesta de marca que involucre: rediseño de su logotipo, definición de un nuevo lenguaje visual, y campaña de difusión de marca.",
+    "videos": [
+      {
+        "title": "Video de creacion de logo",
+        "url": "./videos/video_creacion_logo.mp4"
+      },
+      {
+        "title": "Manual de marca",
+        "url": "./videos/manual_marca.pdf"
+      },
+      {
+        "title": "Otro video",
+        "url": "./videos/otro_video.mp4"
+      }
+    ],
+    "contenido_extra": [
+      {
+        "title": "Otro contenido extra",
+        "url": "./imagenes/imagen1.jpg"
+      }
+    ]
+  }
+]
